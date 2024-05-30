@@ -12,7 +12,7 @@ Visit [authorization page](https://opendata.cwa.gov.tw/user/authkey) to get the 
 
 ### 3. Clone project
 ```git
-$ git clone https://gitlab.kdanmobile.com/android/practice/weather.git
+$ git clone https://github.com/qaz5823091/Weather.git
 ```
 
 ### 4. New a variable
