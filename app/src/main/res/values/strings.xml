@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="main_title">天氣</string>
+    <string name="main_subtitle">儲存的城市列表</string>
+    <string name="city_subtitle">最近一週的天氣預報</string>
+    <string name="add_city">新增城市</string>
+    <string name="dialog_title">城市</string>
+    <string name="dialog_label">請輸入你想要的城市</string>
+    <string name="dialog_placeholder">ex. 臺南市</string>
+</resources>
